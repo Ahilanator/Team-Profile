@@ -1,2 +1,0 @@
-# Team-Profile
-Team Website
